@@ -29,6 +29,9 @@ goodbyedpi-0.2.3rc3-turkeyy/
     ├── goodbyedpi.exe
     ├── WinDivert.dll
     └── WinDivert32.sys
+```
+
+
 Kullanım
 GoodbyeDPI-GUI.exe dosyasını yukarıdaki yapıyla aynı klasöre koyun.
 
@@ -75,9 +78,8 @@ dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=
 Teşekkürler
 Bu proje, açık kaynak topluluğunun değerli projeleri üzerine inşa edilmiştir. Aşağıdaki geliştiricilere ve projelere katkılarından dolayı teşekkür ederiz:
 
-ValdikSS/GoodbyeDPI: Orijinal DPI atlatma motoru ve temel yazılım.
-
-cagritaskn/GoodbyeDPI-Turkey: Türkiye'ye özel konfigürasyonlar ve script düzenlemeleri.
+- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI): Orijinal DPI atlatma motoru ve temel yazılım.
+- [cagritaskn/GoodbyeDPI-Turkey](https://github.com/cagritaskn/GoodbyeDPI-Turkey): Türkiye'ye özel konfigürasyonlar ve script düzenlemeleri.
 
 Lisans
 GoodbyeDPI ve WinDivert kendi ilgili lisanslarına tabidir.
