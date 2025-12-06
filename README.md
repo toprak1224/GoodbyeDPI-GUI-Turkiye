@@ -1,6 +1,6 @@
 # GoodbyeDPI V2 GUI • Turkey Edition
 
-Modern WPF arayüzü, GoodbyeDPI Türkiye sürümündeki tüm CMD modlarını tek tıkla yönetir. Geçici çalıştırma ve kalıcı servis kurulumu desteklenir. Türkçe mod açıklamaları, canlı log, gizli kaydırma çubuğu ve sabit “Made by Toprak | @toprak1224” imzası içerir.
+Modern WPF arayüzü, GoodbyeDPI Türkiye sürümündeki tüm CMD modlarını tek tıkla yönetir. Geçici çalıştırma ve kalıcı servis kurulumu desteklenir. Türkçe mod açıklamaları, canlı log, gizli kaydırma çubuğu.
 
 <img width="559" height="900" alt="image" src="https://github.com/user-attachments/assets/c2a50d68-b131-4720-82f1-3fc84ef80543" />
 
