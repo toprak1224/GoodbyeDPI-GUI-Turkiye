@@ -1,0 +1,2 @@
+C:\Users\crazy\Desktop\GoodbyeDPI-Turkey-master\GoodbyeDPI-Turkey-master\GoodbyeDPI-GUI\bin\Release\net6.0-windows\win-x64\publish\GoodbyeDPI-GUI.pdb
+C:\Users\crazy\Desktop\GoodbyeDPI-Turkey-master\GoodbyeDPI-Turkey-master\GoodbyeDPI-GUI\bin\Release\net6.0-windows\win-x64\publish\GoodbyeDPI-GUI.exe
